@@ -1,6 +1,0 @@
-.aws_sam*
-.DS_Store
-.idea
-*.zip
-sam_cli/test-app/.aws-sam
-
